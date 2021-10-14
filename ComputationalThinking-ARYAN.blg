@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ComputationalThinking-ARYAN.aux
+The style file: plain.bst
+Database file #1: CTCOMP47340.bib
+Warning--entry type for "copy-insights" isn't style-file defined
+--line 359 of file CTCOMP47340.bib
+Warning--to sort, need author or key in :1988aa
+Warning--to sort, need author or key in :2000aa
+Warning--empty author in :1988aa
+Warning--empty author in :2000aa
+Warning--empty journal in HoM
+You've used 54 entries,
+            2118 wiz_defined-function locations,
+            868 strings with 14269 characters,
+and the built_in function-call counts, 17355 in all, are:
+= -- 1702
+> -- 742
+< -- 8
++ -- 308
+- -- 239
+* -- 1278
+:= -- 2890
+add.period$ -- 169
+call.type$ -- 54
+change.case$ -- 277
+chr.to.int$ -- 0
+cite$ -- 59
+duplicate$ -- 629
+empty$ -- 1415
+format.name$ -- 239
+if$ -- 3642
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 56
+newline$ -- 278
+num.names$ -- 106
+pop$ -- 249
+preamble$ -- 1
+purify$ -- 226
+quote$ -- 0
+skip$ -- 433
+stack$ -- 0
+substring$ -- 1165
+swap$ -- 95
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 202
+warning$ -- 5
+while$ -- 160
+width$ -- 56
+write$ -- 610
+(There were 6 warnings)

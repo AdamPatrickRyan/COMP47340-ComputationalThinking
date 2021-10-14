@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}How Technology is Transforming Customer Retail: CT5: ComputersProblemSolving, Slide 21}{3}{section.2}%
+\contentsline {section}{\numberline {3}Text Analytics in Retail: CT7-What Lies Beneath, Slide 39}{6}{section.3}%
+\contentsline {section}{\numberline {4}Ethics of Machine Learning in Retail: CT9-Machine Ethics, Slide 11}{9}{section.4}%
